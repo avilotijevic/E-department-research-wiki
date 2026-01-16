@@ -61,7 +61,7 @@ This is a step-by-step workflow for using the SONA system:
 - **[SONA system portal](https://rug.sona-systems.com/Default.aspx?ReturnUrl=%2f)**  
   Login portal for the SONA system.
 
-- **[SONA request survey](https://rug.eu.qualtrics.com/jfe/form/SV_1zio5UYDfm0DAxf)**  
+- **[SONA request survey](https://rug.eu.qualtrics.com/jfe/form/SV_cLVDQRArF8QpvV4)**  
   Survey that must be completed as the first step when requesting a SONA study.
 
 - **[SONA researcher manual](https://student.portal.rug.nl/infonet/studenten/gmw/onderzoek/research-support/recruiting-participants/#manuals)**  
