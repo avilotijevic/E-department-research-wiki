@@ -4,6 +4,7 @@ This section describes the steps involved in conducting research at the E-depart
 from ethics approval to data collection.
 
 ## Topics
-- [Ethics & Ethical Approval](ethics.md)
-- Participant recruitment platforms *(coming soon)*
-- Lab booking *(coming soon)*
+- [Ethical approval](ethical-approval/index.md)
+- [Advertising your research](recruitment/index.md)
+- [Booking a lab](lab-booking/index.md)
+
