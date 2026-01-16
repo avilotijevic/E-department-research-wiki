@@ -5,7 +5,7 @@ Experimental Psychology for running behavioral and psychophysiological experimen
 researchers to design experiments using a graphical interface, Python scripting, or a combination
 of both.
 
-OpenSesame provides** extensive tutorials and examples **that are suitable for both beginners and
+OpenSesame provides **extensive tutorials and examples** that are suitable for both beginners and
 more advanced users. This page provides a short practical introduction to getting started with
 OpenSesame and points to the most relevant documentation.
 
