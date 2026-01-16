@@ -76,7 +76,7 @@ Important points:
 - Researchers must collect **minimal personal information** for payment purposes:
   - e-mail address (required)
   - student number (optional, if applicable)
-- Payments are handled via the **FedRbp system**:  
+- Payments are handled via the **FedRbp system (https://rbpreg.gai.rug.nl/)**:  
   https://rbpreg.gai.rug.nl/
 - When using Qualtrics, payment information should be collected in a **separate survey**,
   typically via a redirect at the end of the study.
@@ -103,15 +103,6 @@ Always advertise the **maximum duration** of the study.
 
 ## Resources
 
-**[SONA system portal](https://rug.sona-systems.com/Default.aspx?ReturnUrl=%2f)**  
-  Login portal for the SONA system.
-
-- **[SONA request survey](https://rug.eu.qualtrics.com/jfe/form/SV_1zio5UYDfm0DAxf)**  
-  Survey that must be completed as the first step when requesting a SONA study.
-
-- **[SONA researcher manual](https://signon.rug.nl/nidp/saml2/sso?id=107&sid=0&option=credential&sid=0)**  
-  Detailed manual describing how to manage and monitor your study in SONA.
---------
 
 - **[PPP system portal](https://rug.sona-systems.com/Default.aspx?ReturnUrl=%2f)** 
   Login portal for the PPP system.
