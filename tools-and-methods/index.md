@@ -4,7 +4,7 @@ This section describes the tools and methods that you can use in your research.
 
 ## Tools and methods
 - Building experiments
-  -   [OpenSesame](opensesame.md)
+  -   [OpenSesame](building-experiments/opensesame.md)
 
 - Methods
   - [Electroencephalography] todo
