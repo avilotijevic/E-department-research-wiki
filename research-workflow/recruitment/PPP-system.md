@@ -76,7 +76,7 @@ Important points:
 - Researchers must collect **minimal personal information** for payment purposes:
   - e-mail address (required)
   - student number (optional, if applicable)
-- Payments are handled via the **[FedRbp system] (https://rbpreg.gai.rug.nl/)**:  
+- Payments are handled via the **[FedRbp system](https://rbpreg.gai.rug.nl/)**:  
 - When using Qualtrics, payment information should be collected in a **separate survey**,
   typically via a redirect at the end of the study.
 
@@ -109,7 +109,7 @@ Always advertise the **maximum duration** of the study.
 - **[SONA request survey](https://rug.eu.qualtrics.com/jfe/form/SV_1zio5UYDfm0DAxf)**   
   The PPP request survey that must be completed as the first step.
 
-- **PPP researcher manual (https://student.portal.rug.nl/infonet/studenten/gmw/onderzoek/research-support/recruiting-participants/#manuals)**  
+- **[PPP researcher manual](https://student.portal.rug.nl/infonet/studenten/gmw/onderzoek/research-support/recruiting-participants/#manuals)**  
   Detailed manual describing how to manage your study in PPP:  
 
-- **Payment (FedRbp system) (https://rbpreg.gai.rug.nl/)**
+- **[Payment (FedRbp system)](https://rbpreg.gai.rug.nl/)**
