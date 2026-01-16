@@ -1,6 +1,6 @@
 # OpenSesame
 
-OpenSesame (Mathôt et al., 2012) is an open-source experiment builder that is frequently used at
+OpenSesame (Mathôt et al., 2012) is an **open-source experiment builder** that is frequently used at
 Experimental Psychology for running behavioral and psychophysiological experiments. It allows
 researchers to design experiments using a graphical interface, Python scripting, or a combination
 of both.
