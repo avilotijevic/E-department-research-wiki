@@ -7,4 +7,4 @@ Participant recruitment usually goes either through the SONA system (where the p
 
 ## Platforms
 - [SONA system](sona-system.md)
-- [Paid Participants Pool (PPP)](PPP-system.md)*
+- [Paid Participants Pool (PPP)](PPP-system.md)
