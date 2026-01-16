@@ -106,7 +106,7 @@ Always advertise the **maximum duration** of the study.
 - **[PPP system portal](https://rug-en.sona-systems.com/default.aspx?logout=Y)** 
   Login portal for the PPP system.
 
-- **[SONA request survey](https://rug.eu.qualtrics.com/jfe/form/SV_1zio5UYDfm0DAxf)**   
+- **[SONA request survey]([https://rug.eu.qualtrics.com/jfe/form/SV_1zio5UYDfm0DAxf)](https://rug.eu.qualtrics.com/jfe/form/SV_cLVDQRArF8QpvV4)**   
   The PPP request survey that must be completed as the first step.
 
 - **[PPP researcher manual](https://student.portal.rug.nl/infonet/studenten/gmw/onderzoek/research-support/recruiting-participants/#manuals)**  
