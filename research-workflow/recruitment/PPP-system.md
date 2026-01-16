@@ -103,7 +103,7 @@ Always advertise the **maximum duration** of the study.
 ## Resources
 
 
-- **[PPP system portal](https://rug.sona-systems.com/Default.aspx?ReturnUrl=%2f)** 
+- **[PPP system portal](https://rug-en.sona-systems.com/default.aspx?logout=Y)** 
   Login portal for the PPP system.
 
 - **[SONA request survey](https://rug.eu.qualtrics.com/jfe/form/SV_1zio5UYDfm0DAxf)**   
