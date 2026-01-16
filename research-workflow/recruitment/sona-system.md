@@ -64,6 +64,6 @@ This is a step-by-step workflow for using the SONA system:
 - **[SONA request survey](https://rug.eu.qualtrics.com/jfe/form/SV_1zio5UYDfm0DAxf)**  
   Survey that must be completed as the first step when requesting a SONA study.
 
-- **[SONA researcher manual](https://signon.rug.nl/nidp/saml2/sso?id=107&sid=0&option=credential&sid=0)**  
+- **[SONA researcher manual](https://student.portal.rug.nl/infonet/studenten/gmw/onderzoek/research-support/recruiting-participants/#manuals)**  
   Detailed manual describing how to manage and monitor your study in SONA.
 
