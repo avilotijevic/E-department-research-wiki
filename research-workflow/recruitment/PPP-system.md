@@ -76,8 +76,7 @@ Important points:
 - Researchers must collect **minimal personal information** for payment purposes:
   - e-mail address (required)
   - student number (optional, if applicable)
-- Payments are handled via the **FedRbp system (https://rbpreg.gai.rug.nl/)**:  
-  https://rbpreg.gai.rug.nl/
+- Payments are handled via the **[FedRbp system] (https://rbpreg.gai.rug.nl/)**:  
 - When using Qualtrics, payment information should be collected in a **separate survey**,
   typically via a redirect at the end of the study.
 
