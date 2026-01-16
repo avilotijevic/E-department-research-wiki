@@ -1,7 +1,5 @@
 # SONA System
 
-_Last edited by A. Vilotijevic on Feb 14, 2024_
-
 This page describes how to request access to SONA and how to implement your study in the system.
 
 ---
