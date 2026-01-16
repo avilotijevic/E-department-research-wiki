@@ -2,9 +2,6 @@
 
 _Last edited by A. Vilotijevic on Feb 14, 2024_
 
-Participant recruitment usually takes place either through the **SONA system**
-(for first-year psychology students) or through the **Paid Participants Pool (PPP)**.
-
 This page describes how to request access to SONA and how to implement your study in the system.
 
 ---
