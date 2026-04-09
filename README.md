@@ -21,19 +21,39 @@ It contains step-by-step guides for:
 
 ## Research workflow
 
-Most studies in the department follow a similar sequence of steps.
+---
 
-                              **Ethics approval**
-                                        ↓
-                              **Program experiment** (OpenSesame)
-                                        ↓
-                              **Advertising research to participants** (SONA / PPP)
-                                        ↓
-                              **Selecting experimental method** (Eye tracking • EEG • Neurostimulation)
-                                        ↓
-                              **Booking the laboratory**
-                                        ↓
-                              **Running the experiment and collecting data**
+                                            🧾 Step 1 — Ethics approval
+                                        Apply for ethical approval before running a study.
+                              
+                                                        ↓
+                                        
+                                            💻 Step 2 — Program the experiment
+                                        Build the experiment using **OpenSesame**.
+                                        
+                                                        ↓
+                                        
+                                            👥 Step 3 — Recruit participants
+                                        Advertise your study using **SONA** or the **Paid Participant Pool (PPP)**.
+                                        
+                                                        ↓
+                                        
+                                            🧠 Step 4 — Select experimental method
+                                        Choose the laboratory method required for your study:
+                                        
+                                        - Eye tracking  
+                                        - EEG  
+                                        - Neurostimulation  
+                                        
+                                                        ↓
+                                        
+                                            🧪 Step 5 — Book the laboratory
+                                        Reserve the appropriate lab for your experiment.
+                                        
+                                                        ↓
+                                        
+                                            📊 Step 6 — Run the experiment
+                                        Collect experimental data in the lab.
 
 Each of these steps is documented in detail in the sections of this wiki.
 
