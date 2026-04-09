@@ -33,7 +33,7 @@ Guides for setting up and running studies in the department.
 
 Documentation for experimental software and laboratory techniques.
 
-- **[Building experiments](tools-and-methods/building-experiments.md)**  
+- **[Building experiments](tools-and-methods/building-experiments)**  
   Using OpenSesame to create experiments.
 
 - **Methods overview**
