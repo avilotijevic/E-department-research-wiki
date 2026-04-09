@@ -4,13 +4,16 @@ Before planning a study, make sure that the selected lab supports the methods an
 
 ## Laboratory facilities
 
-| Lab | Location | Equipment | Typical use |
-|----|----|----|----|
-| **M226** | Munting Building, 2nd floor | EyeLink 1000 eye tracker | Eye-tracking experiments, pupillometry, behavioral studies requiring controlled lighting |
-| **H-184** | Heymans Building, basement | TMSi EEG system, EyeLink 1000 eye tracker | EEG studies, combined EEG + eye-tracking experiments |
-| **H-186** | Heymans Building | TMSi EEG system | EEG experiments and behavioral tasks combined with EEG |
-| **H-180** | Heymans Building | Neurostimulation equipment | Brain stimulation experiments and studies combining stimulation with behavioral tasks |
+## Laboratory facilities
 
+| Lab | Location | Equipment | Typical use | Manuals / Methods |
+|----|----|----|----|----|
+| **M226** | Munting Building, 2nd floor | EyeLink 1000 eye tracker | Eye-tracking experiments, pupillometry, behavioral tasks requiring controlled lighting | [Eye-tracking manual](../tools-and-methods/eyetracking.md) |
+| **H-184** | Heymans Building, basement | TMSi EEG system, EyeLink 1000 eye tracker | EEG studies, combined EEG + eye-tracking experiments | [EEG manual](../tools-and-methods/eeg.md) • [Eye-tracking manual](../tools-and-methods/eyetracking.md) |
+| **H-186** | Heymans Building | TMSi EEG system | EEG experiments and behavioral studies with EEG | [EEG manual](../tools-and-methods/eeg.md) |
+| **H-180** | Heymans Building | Neurostimulation equipment | Brain stimulation experiments and stimulation combined with behavioral tasks | [Neurostimulation manual](../tools-and-methods/neurostimulation.md) |
+
+## Important notes
 ## Important notes
 
 - Not all labs support all combinations of methods.
