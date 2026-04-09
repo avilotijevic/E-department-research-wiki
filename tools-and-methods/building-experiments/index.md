@@ -32,7 +32,7 @@ Once the experiment runs reliably, it can be used for pilot testing and data col
 
 Detailed instructions for installing and using OpenSesame can be found here:
 
-→ **[OpenSesame manual](../opensesame.md)**
+→ **[OpenSesame manual](../building-experiments/opensesame.md)**
 
 The OpenSesame page includes:
 
