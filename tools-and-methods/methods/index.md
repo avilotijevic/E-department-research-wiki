@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Eye tracking
+title: Methods
 parent: Tools & methods
 nav_order: 4
 ---
