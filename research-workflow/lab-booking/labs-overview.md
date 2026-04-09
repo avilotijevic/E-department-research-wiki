@@ -8,10 +8,10 @@ Before planning a study, make sure that the selected lab supports the methods an
 
 | Lab | Location | Equipment | Typical use | Manuals / Methods |
 |----|----|----|----|----|
-| **M226** | Munting Building, 2nd floor | EyeLink 1000 eye tracker | Eye-tracking experiments, pupillometry, behavioral tasks requiring controlled lighting | [Eye-tracking manual](../tools-and-methods/methods/eyetracking.md) |
-| **H-184** | Heymans Building, basement | TMSi EEG system, EyeLink 1000 eye tracker | EEG studies, combined EEG + eye-tracking experiments | [EEG manual](../tools-and-methods/methods/eeg.md) • [Eye-tracking manual](../tools-and-methods/methods/eyetracking.md) |
-| **H-186** | Heymans Building | TMSi EEG system | EEG experiments and behavioral studies with EEG | [EEG manual](../tools-and-methods/methods/eeg.md) |
-| **H-180** | Heymans Building | Neurostimulation equipment | Brain stimulation experiments and stimulation combined with behavioral tasks | [Neurostimulation manual](../tools-and-methods/methods/neurostimulation.md) |
+| **M226** | Munting Building, 2nd floor | EyeLink 1000 eye tracker | Eye-tracking experiments, pupillometry, behavioral tasks requiring controlled lighting | [Eye-tracking manual](tools-and-methods/methods/eyetracking.md) |
+| **H-184** | Heymans Building, basement | TMSi EEG system, EyeLink 1000 eye tracker | EEG studies, combined EEG + eye-tracking experiments | [EEG manual](tools-and-methods/methods/eeg.md) • [Eye-tracking manual](tools-and-methods/methods/eyetracking.md) |
+| **H-186** | Heymans Building | TMSi EEG system | EEG experiments and behavioral studies with EEG | [EEG manual](tools-and-methods/methods/eeg.md) |
+| **H-180** | Heymans Building | Neurostimulation equipment | Brain stimulation experiments and stimulation combined with behavioral tasks | [Neurostimulation manual](tools-and-methods/methods/neurostimulation.md) |
 
 ## Important notes
 ## Important notes
