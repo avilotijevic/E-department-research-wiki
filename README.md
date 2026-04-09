@@ -10,12 +10,13 @@ This wiki provides documentation for research workflow, laboratory methods, and 
 - [Ethical approval](research-workflow/ethical-approval/index.md)
 - [Recruiting participants](research-workflow/recruitment/index.md)
 - [Lab booking](research-workflow/lab-booking/index.md)
+  - [Labs overview](research-workflow/lab-booking/labs-overview.md)
 
 ## Tools and methods
+- [Building experiments] (tools-and-methods/building-experiments)
 - [Methods overview](tools-and-methods/index.md)
-- [Eye tracking](tools-and-methods/methods/eyetracking.md)
-- [EEG](tools-and-methods/methods/eeg.md)
-- [Neurostimulation](tools-and-methods/methods/neurostimulation.md)
+  - [Eye tracking](tools-and-methods/methods/eyetracking.md)
+  - [EEG](tools-and-methods/methods/eeg.md)
+  - [Neurostimulation](tools-and-methods/methods/neurostimulation.md)
 
-## Useful overview pages
-- [Labs overview](research-workflow/lab-booking/labs-overview.md)
+
