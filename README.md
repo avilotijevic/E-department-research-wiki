@@ -1,9 +1,4 @@
 
----
-layout: default
-title: Home
-nav_order: 1
----
 
 ![Experimental Psychology Groningen](research-workflow/e-logo.png)
 
