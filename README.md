@@ -12,35 +12,35 @@ This research wiki provides practical documentation for conducting experiments i
 
 It contains step-by-step guides for:
 
-- obtaining ethical approval
-- recruiting participants
-- building experiments
-- running studies in department laboratories
-
+- obtaining **ethics approval**
+- **programming experiments** 
+- **recruiting participants**
+- **running studies in department laboratories**
+- using experimental methods such as **eye tracking**, **EEG**, and **neurostimulation**
 ---
 
 ## Research workflow
 
-Guides for setting up and running studies in the department.
+Most studies in the department follow a similar sequence of steps.
 
-- **[Ethical approval](research-workflow/ethical-approval/)**  
-  Apply for ethics approval before running a study.
+                              **Ethics approval**
+                                        ↓
+                              **Program experiment** (OpenSesame)
+                                        ↓
+                              **Advertising research to participants** (SONA / PPP)
+                                        ↓
+                              **Selecting experimental method** (Eye tracking • EEG • Neurostimulation)
+                                        ↓
+                              **Booking the laboratory**
+                                        ↓
+                              **Running the experiment and collecting data**
 
-- **[Recruiting participants](research-workflow/recruitment/)**  
-  Information about SONA and the Paid Participant Pool.
+Each of these steps is documented in detail in the sections of this wiki.
 
-- **[Labs overview and booking](research-workflow/lab-booking/)**  
-  Overview of labs and instructions for booking experimental rooms.
+---
 
-## Tools and methods
+## About this documentation
 
-Documentation for experimental software and laboratory techniques.
+This wiki is continuously updated to provide **clear and practical instructions for researchers in the department**.
 
-- **[Building experiments](tools-and-methods/building-experiments/opensesame.md)**  
-  Using OpenSesame to create experiments.
-
-- **Methods overview**
-
-  - [Eye tracking](tools-and-methods/methods/eyetracking.md)
-  - [EEG](tools-and-methods/methods/eeg.md)
-  - [Neurostimulation](tools-and-methods/methods/neurostimulation.md)
+If you notice outdated information or missing documentation, please update the relevant page or contact the maintainers.
