@@ -13,7 +13,7 @@ This wiki provides documentation for research workflow, laboratory methods, and 
   
 
 ## Tools and methods
-- [Building experiments](tools-and-methods/building-experiments.md)
+- [Building experiments](tools-and-methods/building-experiments/opensesame.md)
 - [Methods overview](tools-and-methods/index.md)
   - [Eye tracking](tools-and-methods/methods/eyetracking.md)
   - [EEG](tools-and-methods/methods/eeg.md)
