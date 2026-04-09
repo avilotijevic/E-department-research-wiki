@@ -1,3 +1,7 @@
+---
+nav_exclude: true
+---
+
 # Ethics & Ethical Approval
 
 Before you can collect data from human participants, you need approval from the **Ethics Committee Psychology (ECP)**.  
