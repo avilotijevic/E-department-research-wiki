@@ -15,7 +15,7 @@ Each method requires specific laboratory setups and preparation procedures. Deta
 
 ## Available methods
 
-### → [Eye tracking](methods/eyetracking.md)
+### → [Eye tracking](eyetracking.md)
 
 Eye tracking is used to measure **gaze position, eye movements, and pupil size** during experiments.  
 In our department, eye tracking experiments are typically conducted using **EyeLink 1000 systems**.
@@ -29,7 +29,7 @@ This method is commonly used in studies of:
 
 ---
 
-### → [EEG](methods/eeg.md)
+### → [EEG](eeg.md)
 
 Electroencephalography (EEG) measures **electrical brain activity** from the scalp with high temporal resolution.
 
@@ -43,7 +43,7 @@ EEG experiments can be combined with behavioral tasks and other physiological me
 
 ---
 
-### → [Neurostimulation](methods/neurostimulation.md)
+### → [Neurostimulation](neurostimulation.md)
 
 Neurostimulation methods allow researchers to **modulate neural activity** non-invasively in order to investigate causal brain–behavior relationships.
 
