@@ -53,8 +53,6 @@ Required documents:
 
 ## Important considerations
 
-- In 2024, the EC Request system is scheduled to be replaced by a new system called **Unirequest**.
-- A key difference is that studies submitted via Unirequest may be evaluated not only by the ECP, but also by the **BSS privacy & security coordinator**.
 - Much of the information requested relates to the university’s obligation to comply with **GDPR**.
 - It is strongly recommended to familiarize yourself with the legal definitions of:
   - anonymous data
