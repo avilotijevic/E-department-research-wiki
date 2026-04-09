@@ -1,4 +1,11 @@
-# Advertising your research
+---
+layout: default
+title: Recruiting participants
+parent: Research workflow
+nav_order: 2
+---
+
+# Recruiting participants
 
 This section describes how to recruit participants for studies conducted
 at the E-department.
