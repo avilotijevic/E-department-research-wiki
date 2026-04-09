@@ -1,3 +1,5 @@
+![Experimental Psychology Groningen](research-workflow/e-logo.png)
+
 # Experimental Psychology Research Wiki
 
 Welcome to the research wiki for the Experimental Psychology department.
