@@ -9,8 +9,8 @@ This wiki provides documentation for research workflow, laboratory methods, and 
 ## Research workflow
 - [Ethical approval](research-workflow/ethical-approval/index.md)
 - [Recruiting participants](research-workflow/recruitment/index.md)
-- [Lab booking](research-workflow/lab-booking/index.md)
-  - [Labs overview](research-workflow/lab-booking/labs-overview.md)
+- [Labs overview and booking](research-workflow/lab-booking/index.md)
+  
 
 ## Tools and methods
 - [Building experiments](tools-and-methods/building-experiments.md)
