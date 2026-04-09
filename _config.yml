@@ -9,3 +9,7 @@ baseurl: /E-department-research-wiki
 color_scheme: light
 search_enabled: true
 nav_enabled: true
+
+just_the_docs:
+  custom_css:
+    - assets/css/custom.css
