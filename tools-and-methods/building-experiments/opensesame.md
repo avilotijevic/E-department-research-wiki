@@ -1,3 +1,11 @@
+---
+layout: default
+title: OpenSesame
+parent: Tools & methods
+nav_order: 2
+nav_exclude: true
+---
+
 # OpenSesame
 
 OpenSesame (Mathôt et al., 2012) is an **open-source experiment builder** that is frequently used at
