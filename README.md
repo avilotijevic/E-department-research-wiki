@@ -14,6 +14,7 @@ It contains step-by-step guides for:
 - recruiting participants
 - building experiments
 - running studies in department laboratories
+
 ---
 
 ## Research workflow
