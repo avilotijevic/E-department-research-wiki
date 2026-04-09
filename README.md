@@ -17,43 +17,30 @@ It contains step-by-step guides for:
 - **recruiting participants**
 - **running studies in department laboratories**
 - using experimental methods such as **eye tracking**, **EEG**, and **neurostimulation**
+
 ---
 
 ## Research workflow
 
 ---
 
-                                            🧾 Step 1 — Ethics approval
-                                        Apply for ethical approval before running a study.
-                              
-                                                        ↓
-                                        
-                                            💻 Step 2 — Program the experiment
-                                        Build the experiment using **OpenSesame**.
-                                        
-                                                        ↓
-                                        
-                                            👥 Step 3 — Recruit participants
-                                        Advertise your study using **SONA** or the **Paid Participant Pool (PPP)**.
-                                        
-                                                        ↓
-                                        
-                                            🧠 Step 4 — Select experimental method
-                                        Choose the laboratory method required for your study:
-                                        
-                                        - Eye tracking  
-                                        - EEG  
-                                        - Neurostimulation  
-                                        
-                                                        ↓
-                                        
-                                            🧪 Step 5 — Book the laboratory
-                                        Reserve the appropriate lab for your experiment.
-                                        
-                                                        ↓
-                                        
-                                            📊 Step 6 — Run the experiment
-                                        Collect experimental data in the lab.
+                                  🧾 Step 1 — ETHICS APPLICATION
+                           Apply for ethical approval before running a study.
+                                              ↓
+                                  💻 Step 2 — PROGRAM THE EXPERIMENT
+                            Build the experiment using **OpenSesame**.
+                                              ↓
+                                  👥 Step 3 — RECRUIT PARTICIPANTS
+                            Advertise your study using **SONA** or the **Paid Participant Pool (PPP)**.
+                                              ↓
+                                  🧠 Step 4 — SELECT METHODOLOGY
+                              Choose the laboratory method required for your study:
+                                              ↓
+                                   🧪 Step 5 — BOOK THE LAB
+                              Reserve the appropriate lab for your experiment.
+                                               ↓
+                                    📊 Step 6 — DATA COLLECTION
+                              Collect experimental data in the lab.
 
 Each of these steps is documented in detail in the sections of this wiki.
 
