@@ -1,3 +1,10 @@
+---
+layout: default
+title: Book a lab
+parent: Research workflow
+nav_order: 3
+---
+
 # Booking a lab
 
 This section provides information on how to book experimental laboratories and which facilities are available in the department.  
