@@ -1,3 +1,10 @@
+---
+layout: default
+title: Research workflow
+nav_order: 2
+has_children: true
+---
+
 # Research Workflow
 
 This section describes the steps involved in conducting research at the E-department,
