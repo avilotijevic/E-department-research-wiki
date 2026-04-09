@@ -13,7 +13,7 @@ This wiki provides documentation for research workflow, laboratory methods, and 
   - [Labs overview](research-workflow/lab-booking/labs-overview.md)
 
 ## Tools and methods
-- [Building experiments] (tools-and-methods/building-experiments)
+- [Building experiments](tools-and-methods/building-experiments)
 - [Methods overview](tools-and-methods/index.md)
   - [Eye tracking](tools-and-methods/methods/eyetracking.md)
   - [EEG](tools-and-methods/methods/eeg.md)
