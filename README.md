@@ -28,10 +28,10 @@ It contains step-by-step guides for:
                            Apply for ethical approval before running a study.
                                               ↓
                                   💻 Step 2 — PROGRAM THE EXPERIMENT
-                            Build the experiment using **OpenSesame**.
+                            Build the experiment using OpenSesame.
                                               ↓
                                   👥 Step 3 — RECRUIT PARTICIPANTS
-                            Advertise your study using **SONA** or the **Paid Participant Pool (PPP)**.
+                            Advertise your study using SONA or the Paid Participant Pool (PPP).
                                               ↓
                                   🧠 Step 4 — SELECT METHODOLOGY
                               Choose the laboratory method required for your study:
