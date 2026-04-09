@@ -1,3 +1,7 @@
+---
+nav_exclude: true
+---
+
 
 ## Step 0: Before booking the lab
 
