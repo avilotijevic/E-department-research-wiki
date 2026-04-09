@@ -1,3 +1,7 @@
+---
+nav_exclude: true
+---
+
 # Eye tracking
 
 Eye tracking is a method for measuring eye-related events—such as eye movements, gaze position, and pupil size—during an experiment. It is widely used to study visual attention, perception, decision-making, and cognitive processing.
