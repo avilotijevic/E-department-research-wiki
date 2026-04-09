@@ -1,6 +1,4 @@
----
-nav_exclude: true
----
+
 
 ![Experimental Psychology Groningen](research-workflow/e-logo.png)
 
