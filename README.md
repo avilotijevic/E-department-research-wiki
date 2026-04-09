@@ -4,19 +4,40 @@
 
 Welcome to the research wiki for the Experimental Psychology department.
 
-This wiki provides documentation for research workflow, laboratory methods, and data management.
+## About this wiki
+
+This research wiki provides practical documentation for conducting experiments in the **Experimental Psychology department at the University of Groningen**.
+
+It contains step-by-step guides for:
+
+- obtaining ethical approval
+- recruiting participants
+- building experiments
+- running studies in department laboratories
+---
 
 ## Research workflow
-- [Ethical approval](research-workflow/ethical-approval/index.md)
-- [Recruiting participants](research-workflow/recruitment/index.md)
-- [Labs overview and booking](research-workflow/lab-booking/index.md)
-  
+
+Guides for setting up and running studies in the department.
+
+- **[Ethical approval](research-workflow/ethical-approval/)**  
+  Apply for ethics approval before running a study.
+
+- **[Recruiting participants](research-workflow/recruitment/)**  
+  Information about SONA and the Paid Participant Pool.
+
+- **[Labs overview and booking](research-workflow/lab-booking/)**  
+  Overview of labs and instructions for booking experimental rooms.
 
 ## Tools and methods
-- [Building experiments](tools-and-methods/building-experiments/opensesame.md)
-- [Methods overview](tools-and-methods/index.md)
+
+Documentation for experimental software and laboratory techniques.
+
+- **[Building experiments](tools-and-methods/building-experiments.md)**  
+  Using OpenSesame to create experiments.
+
+- **Methods overview**
+
   - [Eye tracking](tools-and-methods/methods/eyetracking.md)
   - [EEG](tools-and-methods/methods/eeg.md)
   - [Neurostimulation](tools-and-methods/methods/neurostimulation.md)
-
-
