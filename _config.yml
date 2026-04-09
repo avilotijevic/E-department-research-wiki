@@ -1,0 +1,12 @@
+title: Experimental Psychology Research Wiki
+description: Documentation for research workflow and laboratory methods.
+
+theme: just-the-docs
+
+url: https://avilotijevic.github.io
+baseurl: /E-department-research-wiki
+
+color_scheme: light
+
+nav_enabled: true
+search_enabled: true
