@@ -26,17 +26,13 @@ Different labs contain different equipment and may require specific preparation 
 ---
 
 ## Available labs
-
 An overview of all laboratories and their equipment can be found here:
-
 → **[Labs overview](labs-overview.md)**
 
 ---
 
 ## How to book a lab
-
 Detailed instructions for booking a laboratory can be found here:
-
 → **[Booking a lab](booking-a-lab.md)**
 
 ---
