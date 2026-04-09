@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Program experiments (OpenSesame)
+title: Program experiments 
 parent: Tools & methods
 nav_order: 1
 ---
