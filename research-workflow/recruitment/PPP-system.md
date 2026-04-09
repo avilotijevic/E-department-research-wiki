@@ -1,3 +1,7 @@
+---
+nav_exclude: true
+---
+
 # Paid Participants Pool (PPP) system
 
 Here you can find the relevant resources on how to apply for a PPP account and how to implement
