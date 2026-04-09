@@ -14,7 +14,6 @@ This section describes the tools and methods that you can use in your research.
   -   [OpenSesame](building-experiments/opensesame.md)
 
 - Methods
-  - [Electroencephalography] todo
-  - [Eye-tracking] todo 
-  - [Virtual Reality] todo 
-  - [Stimulation techniques] todo
+  - [Electroencephalography]((methods/eeg.md)
+  - [Eye-tracking](methods/eye-tracking.md) 
+  - [Stimulation techniques](methods/neurostimulation.md)
