@@ -1,3 +1,7 @@
+---
+nav_exclude: true
+---
+
 # SONA System
 
 This page describes how to request access to SONA and how to implement your study in the system.
