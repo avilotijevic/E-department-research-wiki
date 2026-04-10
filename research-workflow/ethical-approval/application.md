@@ -25,8 +25,8 @@ This procedure assesses the potential ethical risks involved in your study. If t
 Many standard experiments conducted at Experimental Psychology meet the fast-track criteria, **except** for:
 
 - EEG studies
-- Eye-tracking studies
-
+- neurostimulation studies
+  
 For studies with any risk of **incidental findings**, the ECP may require a full review in order to assess how you plan to deal with these risks.
 
 ---
