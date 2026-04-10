@@ -30,11 +30,11 @@ It contains step-by-step guides for:
                                   💻 Step 2 — PROGRAM THE EXPERIMENT
                             Build the experiment using OpenSesame.
                                               ↓
-                                  👥 Step 3 — RECRUIT PARTICIPANTS
-                            Advertise your study using SONA or the Paid Participant Pool (PPP).
+                                  🧠 Step 3 — SELECT METHODOLOGY 
+                            Choose the laboratory method required for your study.
                                               ↓
-                                  🧠 Step 4 — SELECT METHODOLOGY
-                              Choose the laboratory method required for your study:
+                                  👥 Step 4 — RECRUIT PARTICIPANTS
+                              Advertise your study using SONA or the Paid Participant Pool (PPP).
                                               ↓
                                    🧪 Step 5 — BOOK THE LAB
                               Reserve the appropriate lab for your experiment.
