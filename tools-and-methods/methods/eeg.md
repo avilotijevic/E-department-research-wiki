@@ -89,7 +89,7 @@ After completing the experiment:
 - Store equipment properly.
 - Back up the recorded data.
 
-<div style="text-align: center;">
+<div style="text-align: left;">
     <a href="https://drive.google.com/file/d/1I8GeQHG256ofCFjfNwjlbIMGNb40OYIG/view?usp=sharing">
       <img src="../../assets/images/eeg-vid5.png" width="300">
     </a>
