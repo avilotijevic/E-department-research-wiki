@@ -47,7 +47,7 @@ Typical preparation steps:
 - Check electrode impedance.
 - Ensure signal quality before starting the experiment.
 
-<div style="display: flex; gap: 20px; justify-content: center; flex-wrap: wrap;">
+<div style="display: grid; gap: 20px; justify-content: center;flex-wrap: flex;">
 
   <div style="text-align: center;">
     <a href="https://drive.google.com/file/d/1hCbbiar9sEniK9ulTCyAg8CghtfnS6gD/view?usp=sharing">
@@ -105,19 +105,22 @@ After each session:
 - Copy the data to the appropriate project folder.
 - Back up the data to a secure storage location.
 
+<div style="display: grid; gap: 20px; justify-content: center;flex-wrap: flex;">
 
-<div style="text-align: center;">
+  <div style="text-align: center;">
     <a href="https://drive.google.com/file/d/1Vu4atj2H7Z3XVcLrkOyab6phA7nSFoVw/view?usp=sharing">
       <img src="../../assets/images/eeg-artifacts-vid1.png" width="300">
     </a>
     <p><em>Video 6: Artifacts: eye movements</em></p>
   </div>
-<div style="text-align: center;">
+
+  <div style="text-align: center;">
     <a href="https://drive.google.com/file/d/1I8GeQHG256ofCFjfNwjlbIMGNb40OYIG/view?usp=sharing">
       <img src="../../assets/images/eeg-artifacts-vid2.png" width="300">
     </a>
     <p><em>Video 7: Artifacts: muscle activity</em></p>
   </div>
+</div>
 
 ## Important notes
 
