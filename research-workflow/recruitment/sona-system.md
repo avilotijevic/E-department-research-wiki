@@ -7,6 +7,13 @@ nav_exclude: true
 This page describes how to request access to SONA and how to implement your study in the system.
 
 ---
+## What is SONA system?
+
+The SONA System is an online platform used by the department to manage participant recruitment for research studies.
+
+It allows researchers to advertise their experiments and schedule participants, while students can sign up for studies.
+
+In the Experimental Psychology program, first-year students are required to participate in studies as part of their course credits. By taking part in experiments through SONA, students earn these required credits. 
 
 ## Workflow for the SONA system
 
