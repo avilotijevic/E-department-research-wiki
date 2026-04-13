@@ -8,6 +8,7 @@ nav_order: 3
 # Booking a lab
 
 This section provides information on how to book experimental laboratories and which facilities are available in the department.  
+
 Before starting data collection, researchers must ensure that the appropriate lab is reserved and that the required equipment is available.
 
 ---
