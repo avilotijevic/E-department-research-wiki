@@ -6,6 +6,8 @@ remote_theme: just-the-docs/just-the-docs
 url: https://avilotijevic.github.io
 baseurl: /E-department-research-wiki
 
-color_scheme: light
+color_scheme: groningen
 search_enabled: true
 nav_enabled: true
+
+
