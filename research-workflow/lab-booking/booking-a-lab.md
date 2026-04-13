@@ -20,8 +20,8 @@ Use the links below to access the booking calendars for each laboratory:
   [Open calendar](https://calendar.google.com/calendar/u/0?cid=Y181YzViOTMzNzMzMThjMDdiNmE0YzQ2MGFiMjY5NWZmNmRmNjM1YmIyNjg5MWJiOGNjYzlhMTI0OWY0OWRiNzI4QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20)
 
 - **H-186 (EEG lab)**  
-  *(Add link here)*
-
+  [Open calendar](https://calendar.google.com/calendar/u/0?cid=Y2hvc2dkMzkyNzRpcWtrNW1uNXFuNDk3cDhAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)
+  
 - **M-226 (Eye tracking lab)**  
   [Open calendar](https://calendar.google.com/calendar/u/0?cid=Y185dTkycWM2aGtsODFvZ2pzbDlxb3RwdWRwZ0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
 
