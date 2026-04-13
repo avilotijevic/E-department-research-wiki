@@ -78,3 +78,9 @@ This is a step-by-step workflow for using the SONA system:
 - **[SONA researcher manual](https://student.portal.rug.nl/infonet/studenten/gmw/onderzoek/research-support/recruiting-participants/#manuals)**  
   Detailed manual describing how to manage and monitor your study in SONA.
 
+## Contact 
+
+If you have questions that are not answered here, contact the PPP administration
+(**Norbert Börger**) via:  
+**proefpersonen-psy@rug.nl**
+
