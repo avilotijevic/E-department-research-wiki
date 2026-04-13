@@ -47,6 +47,39 @@ Typical preparation steps:
 - Check electrode impedance.
 - Ensure signal quality before starting the experiment.
 
+<div style="display: flex; gap: 20px; justify-content: center; flex-wrap: wrap;">
+
+  <div style="text-align: center;">
+    <a href="https://drive.google.com/file/d/1hCbbiar9sEniK9ulTCyAg8CghtfnS6gD/view?usp=sharing">
+      <img src="../../assets/images/eeg-vid1.png" width="300">
+    </a>
+    <p><em>Video 1: Preparation</em></p>
+  </div>
+
+  <div style="text-align: center;">
+    <a href="https://drive.google.com/file/d/1ECben2KBfM5KZZS77cdvqOSLFBzf-Ct1/view?usp=sharing">
+      <img src="../../assets/images/eeg-vid2.png" width="300">
+    </a>
+    <p><em>Video 2: Setting up the cap</em></p>
+  </div>
+
+  <div style="text-align: center;">
+    <a href="https://drive.google.com/file/d/1x5xV-yuJ58NrXG9J0dTg8uQAklT7xpRv/view?usp=sharing">
+      <img src="../../assets/images/eeg-vid3.png" width="300">
+    </a>
+    <p><em>Video 3: Electrodes and gel</em></p>
+  </div>
+
+  <div style="text-align: center;">
+    <a href="https://drive.google.com/file/d/1--3yifbslJwa8ODQMw6aWBKO_GPQbzI2/view?usp=sharing">
+      <img src="../../assets/images/eeg-vid4.png" width="300">
+    </a>
+    <p><em>Video 4: Running the experiment</em></p>
+  </div>
+</div>
+
+
+
 ## After the session
 
 After completing the experiment:
@@ -56,6 +89,14 @@ After completing the experiment:
 - Store equipment properly.
 - Back up the recorded data.
 
+<div style="text-align: center;">
+    <a href="https://drive.google.com/file/d/1I8GeQHG256ofCFjfNwjlbIMGNb40OYIG/view?usp=sharing">
+      <img src="../../assets/images/eeg-vid5.png" width="300">
+    </a>
+    <p><em>Video 5: Cleaning up</em></p>
+  </div>
+
+
 ## Data handling
 
 After each session:
@@ -63,6 +104,20 @@ After each session:
 - Verify that EEG data files were recorded correctly.
 - Copy the data to the appropriate project folder.
 - Back up the data to a secure storage location.
+
+
+<div style="text-align: center;">
+    <a href="https://drive.google.com/file/d/1Vu4atj2H7Z3XVcLrkOyab6phA7nSFoVw/view?usp=sharing">
+      <img src="../../assets/images/eeg-artifacts-vid1.png" width="300">
+    </a>
+    <p><em>Video 6: Artifacts: eye movements</em></p>
+  </div>
+<div style="text-align: center;">
+    <a href="https://drive.google.com/file/d/1I8GeQHG256ofCFjfNwjlbIMGNb40OYIG/view?usp=sharing">
+      <img src="../../assets/images/eeg-artifacts-vid2.png" width="300">
+    </a>
+    <p><em>Video 7: Artifacts: muscle activity</em></p>
+  </div>
 
 ## Important notes
 
