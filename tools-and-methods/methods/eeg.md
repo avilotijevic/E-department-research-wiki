@@ -47,7 +47,7 @@ Typical preparation steps:
 - Check electrode impedance.
 - Ensure signal quality before starting the experiment.
 
-<div style="display: flex; gap: 20px; justify-content: center;flex-wrap: flex;">
+<div style="display: flex; gap: 20px; justify-content: center;flex-wrap: wrap;">
 
   <div style="text-align: center;">
     <a href="https://drive.google.com/file/d/1hCbbiar9sEniK9ulTCyAg8CghtfnS6gD/view?usp=sharing">
