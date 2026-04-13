@@ -6,6 +6,12 @@ nav_order: 2
 nav_exclude: true
 ---
 
+ <div style="text-align: center;">
+  <a href="https://osdoc.cogsci.nl/">
+    <img src="../../assets/images/open-sesame.png" width="200">
+  </a>
+</div>   
+
 # OpenSesame
 
 OpenSesame (Mathôt et al., 2012) is an **open-source experiment builder** that is frequently used at
@@ -48,6 +54,13 @@ A typical workflow when creating a new OpenSesame experiment is:
 5. Test the experiment using the **Run** button.
 6. Inspect the output file to verify that all relevant variables are logged correctly.
 
+<div style="text-align: center;">
+  <a href="https://www.youtube.com/watch?v=aWvibRH6D4E">
+    <img src="../../assets/images/building-exp.png" width="400">
+  </a>
+  <p><em>Video 1: Building a basic experiment in OpenSesame</em></p>
+</div>
+
 ---
 
 ## Using OpenSesame with lab equipment
@@ -60,6 +73,12 @@ OpenSesame is commonly used in combination with:
 
 ---
 
+ <div style="text-align: center;">
+  <a href="https://osdoc.cogsci.nl/">
+    <img src="../../assets/images/sigmund.png" width="200">
+  </a>
+</div>  
+
 ## SigmundAI research assistant
 
 SigmundAI ([https://sigmundai.eu](https://sigmundai.eu)) is an AI-based research assistant designed
@@ -69,6 +88,12 @@ as an extension.
 More information about SigmundAI can be found in the OpenSesame documentation:  
 [https://osdoc.cogsci.nl/4.0/manual/sigmund/](https://osdoc.cogsci.nl/4.0/manual/sigmund/)
 
+<div style="text-align: center;">
+  <a href="https://drive.google.com/file/d/13BPvx1iUxKoaGon9ftT099T1gTqPL3Cj/view?usp=sharing">
+    <img src="../../assets/images/sigmund-building.png" width="200">
+  </a>
+  <p><em>Video 2: SigmundAI building a basic experiment in OpenSesame</em></p>
+</div>
 ---
 
 ## Documentation and learning resources
