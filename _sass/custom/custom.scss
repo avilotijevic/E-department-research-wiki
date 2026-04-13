@@ -1,12 +1,12 @@
 // Make the sidebar narrower
 .side-bar {
-  width: 220px;
+  width: 420px;
 }
 
 // Give the main content a bit more room
 @media (min-width: 50rem) {
   .main {
-    margin-left: 220px; // must match sidebar width
+    margin-left: 420px; // must match sidebar width
     max-width: none;  // makes page wider
   }
 }
