@@ -14,7 +14,6 @@ Before planning a study, make sure that the selected lab supports the methods an
 | **H-180** | Heymans Building | Neurostimulation equipment | Brain stimulation experiments | [Neurostimulation manual](../../tools-and-methods/methods/neurostimulation.md) |
 
 ## Important notes
-## Important notes
 
 - Not all labs support all combinations of methods.
 - Always verify equipment availability before planning your experiment.
