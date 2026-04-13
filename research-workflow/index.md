@@ -12,6 +12,6 @@ from ethics approval to data collection.
 
 ## Topics
 - [Ethical approval](ethical-approval/index.md)
-- [Advertising your research](recruitment/index.md)
+- [Advertising your research & recruiting participants](recruitment/index.md)
 - [Booking a lab](lab-booking/index.md)
 
