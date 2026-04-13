@@ -6,13 +6,16 @@
 // Give the main content a bit more room
 @media (min-width: 50rem) {
   .main {
-    margin-left: 120px;
+    margin-left: 220px; // must match sidebar width
+    max-width: 1300px;  // makes page wider
   }
 }
 
 // Slightly soften the page look
 .main-content-wrap {
-  background: #fffdfd;
+  padding-left: 2rem;
+  padding-right: 2rem;
+  max-width: 100%;
 }
 
 // Make links red on hover too
