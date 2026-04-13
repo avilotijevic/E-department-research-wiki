@@ -4,8 +4,7 @@ nav_exclude: true
 
 # Paid Participants Pool (PPP) system
 
-Here you can find the relevant resources on how to apply for a PPP account and how to implement
-your study in the Paid Participants Pool (PPP).
+# What is Psychology Paid Participant Pool (PPP) system?
 
 The **Psychology Paid Participant Pool (PPP)** consists of participants external to the first-year
 SONA system, such as students from other faculties and non-student populations
@@ -14,10 +13,6 @@ for their participation.
 
 The default language of the PPP is **Dutch**. For English-language studies, a language
 restriction can be set.
-
-If you have questions that are not answered here, contact the PPP administration
-(**Norbert Börger**) via:  
-**proefpersonen-psy@rug.nl**
 
 ---
 
@@ -106,7 +101,6 @@ Always advertise the **maximum duration** of the study.
 
 ## Resources
 
-
 - **[PPP system portal](https://rug-en.sona-systems.com/default.aspx?logout=Y)** 
   Login portal for the PPP system.
 
@@ -117,3 +111,9 @@ Always advertise the **maximum duration** of the study.
   Detailed manual describing how to manage your study in PPP:  
 
 - **[Payment (FedRbp system)](https://rbpreg.gai.rug.nl/)**
+
+## Contact 
+
+If you have questions that are not answered here, contact the PPP administration
+(**Norbert Börger**) via:  
+**proefpersonen-psy@rug.nl**
