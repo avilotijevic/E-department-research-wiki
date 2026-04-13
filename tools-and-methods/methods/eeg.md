@@ -105,7 +105,7 @@ After each session:
 - Copy the data to the appropriate project folder.
 - Back up the data to a secure storage location.
 
-<div style="display: grid; gap: 20px; justify-content: center;flex-wrap: flex;">
+<div style="display: flex; gap: 20px; justify-content: center;flex-wrap: flex;">
 
   <div style="text-align: center;">
     <a href="https://drive.google.com/file/d/1Vu4atj2H7Z3XVcLrkOyab6phA7nSFoVw/view?usp=sharing">
