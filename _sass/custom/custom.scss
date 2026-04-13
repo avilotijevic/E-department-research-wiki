@@ -1,0 +1,30 @@
+// Make the sidebar narrower
+.side-bar {
+  width: 220px;
+}
+
+// Give the main content a bit more room
+@media (min-width: 50rem) {
+  .main {
+    margin-left: 220px;
+  }
+}
+
+// Slightly soften the page look
+.main-content-wrap {
+  background: #fffdfd;
+}
+
+// Make links red on hover too
+a {
+  color: #b31b1b;
+}
+
+a:hover {
+  color: #8f1515;
+}
+
+// Optional: slightly tighten sidebar title spacing
+.site-title {
+  line-height: 1.15;
+}
