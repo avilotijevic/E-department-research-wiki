@@ -4,6 +4,7 @@ nav_exclude: true
 
 # Paid Participants Pool (PPP) system
 
+
 ## What is Psychology Paid Participant Pool (PPP) system?
 
 The **Psychology Paid Participant Pool (PPP)** consists of participants external to the first-year
@@ -13,8 +14,6 @@ for their participation.
 
 The default language of the PPP is **Dutch**. For English-language studies, a language
 restriction can be set.
-
----
 
 ## Workflow for the PPP system
 
