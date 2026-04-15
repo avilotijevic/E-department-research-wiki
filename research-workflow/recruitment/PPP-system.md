@@ -1,5 +1,8 @@
 ---
-nav_exclude: true
+layout: default
+title: PPP system
+parent: Recruiting participants
+nav_order: 2
 ---
 
 # Paid Participants Pool (PPP) system
