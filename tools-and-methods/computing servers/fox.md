@@ -39,14 +39,14 @@ To access Fox from outside the university network, connect to the RUG VPN. Instr
 example (On Ubuntu):
 - First install the openconnect VPN client
 
-```Bash
+```
 sudo apt install openconnect
 ```
 
  - Connect to the RUG VPN. This will ask you to log in with your regular RUG log-in + authenticator.
   - To close the VPN, press Ctrl+C to close the client.
 
-```Bash
+```
 sudo openconnect --protocol=gp safenet.vpn.rug.nl
 ```
 example (Mac or Windows):
@@ -62,7 +62,7 @@ for more, please see: [VPN instructions](https://iris.service.rug.nl/tas/public/
 
 Through ```ssh```.
 
-```Bash
+```
 ssh 129.125.130.90
 ```
 
@@ -79,7 +79,7 @@ Matlab is available (open a terminal and run ```matlab```). You do need an accou
 
 Start with a clean Anaconda with no channels added (this is important because dependency solving fails if there are too many channels). Then run the following commands in the terminal:
 
-```Bash
+```
 conda create -n pydata python=3.10 
 conda activate pydata
 conda install pytorch torchvision torchaudio pytorch-cuda=11.7 -c pytorch -c nvidia
@@ -96,7 +96,7 @@ torch.cuda.is_available()
 
 Finally, you can make the pydata environment available in Rapunzel, Spyder, and similar IPython-aware editors as follows:
 
-```Bash
+```
 conda activate pydata
 python -m ipykernel install --user --name pydata
 ```
