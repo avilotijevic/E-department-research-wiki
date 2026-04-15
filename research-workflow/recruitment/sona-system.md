@@ -1,5 +1,8 @@
 ---
-nav_exclude: true
+layout: default
+title: SONA system
+parent: Recruiting participants
+nav_order: 1
 ---
 
 # SONA System
