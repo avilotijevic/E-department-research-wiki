@@ -38,11 +38,14 @@ To access Fox from outside the university network, connect to the RUG VPN. Instr
 
 example (On Ubuntu):
 - First install the openconnect VPN client
+
 ```Bash
 sudo apt install openconnect
 ```
+
  - Connect to the RUG VPN. This will ask you to log in with your regular RUG log-in + authenticator.
   - To close the VPN, press Ctrl+C to close the client.
+
 ```Bash
 sudo openconnect --protocol=gp safenet.vpn.rug.nl
 ```
@@ -58,6 +61,7 @@ for more, please see: [VPN instructions](https://iris.service.rug.nl/tas/public/
 ## Console log in
 
 Through ```ssh```.
+
 ```Bash
 ssh 129.125.130.90
 ```
@@ -85,7 +89,7 @@ pip install eeg_eyetracking_parser moabb braindecode time_series_test biased_mem
 
 Then check if the GPU is enabled by starting Python and running the following:
 
-```Python
+```
 import torch
 torch.cuda.is_available()
 ```
