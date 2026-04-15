@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Recruiting participants
-parent: Research workflow
 nav_order: 2
+has_children: true
 ---
 
 # Recruiting participants
