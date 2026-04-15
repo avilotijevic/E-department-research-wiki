@@ -7,7 +7,7 @@ nav_order: 3
 # Fox — Data analysis server
 
 <div style="text-align: center; margin-bottom: 20px;">
-  <img src="../../assets/images/fox.png" width="180">
+  <img src="../../assets/images/fox.jpeg" width="180">
 </div>
 
 Fox is a powerful computer for data analysis. 
