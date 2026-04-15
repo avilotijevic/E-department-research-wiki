@@ -1,8 +1,12 @@
+
 ---
 layout: default
-title: Fox server
-nav_order: 3
+title: Computing servers
+parent: Tools & methods
+nav_order: 4
 ---
+
+
 
 # Fox — Data analysis server
 
