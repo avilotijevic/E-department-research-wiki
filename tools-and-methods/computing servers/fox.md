@@ -99,7 +99,7 @@ python -m ipykernel install --user --name pydata
 ## What to do when Fox is slow or frozen? 
 
 <div style="text-align: center; margin-bottom: 20px;">
-  <img src="../../assets/images/Stoned-Fox.jpg" width="180">
+  <img src="../../assets/images/Stoned_Fox.jpg" width="180">
 </div>
 
 Ask administrators to check GPU and reboot it.
