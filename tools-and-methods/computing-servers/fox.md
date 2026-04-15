@@ -1,13 +1,4 @@
 
----
-layout: default
-title:  Fox
-parent: Computing servers
-nav_order: 2
----
-
-
-
 # Fox — Data analysis server
 
 <div style="text-align: center; margin-bottom: 20px;">
