@@ -19,4 +19,4 @@ This section describes the tools and methods that you can use in your research.
   - [Stimulation techniques](methods/neurostimulation.md)
 
 - Computing servers
-  - [Fox](computing servers/fox.md) 
+  - [Fox](computing-servers/fox.md) 
