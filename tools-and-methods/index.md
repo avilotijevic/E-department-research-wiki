@@ -17,3 +17,6 @@ This section describes the tools and methods that you can use in your research.
   - [Electroencephalography](methods/eeg.md)
   - [Eye-tracking](methods/eye-tracking.md) 
   - [Stimulation techniques](methods/neurostimulation.md)
+
+- Computing servers
+  - [Fox](computing servers/fox.md) 
