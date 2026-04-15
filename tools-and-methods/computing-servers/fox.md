@@ -1,6 +1,11 @@
+
 ---
-nav_exclude: true
+layout: default
+title:  Fox
+parent: Computing servers
+nav_order: 2
 ---
+
 
 
 # Fox — Data analysis server
