@@ -1,3 +1,11 @@
+---
+layout: default
+title: EEG
+parent: Methods
+nav_order: 1
+---
+
+
 Electroencephalography (EEG) is a method for measuring electrical activity of the brain using electrodes placed on the scalp. EEG provides high temporal resolution and is widely used to study neural responses to sensory, cognitive, and motor processes.
 
 ## What is EEG used for?
