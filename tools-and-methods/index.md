@@ -1,8 +1,8 @@
+
 ---
 layout: default
-title: Methods
-parent: Tools & methods
-nav_order: 3
+title: Tools & methods
+nav_order: 2
 has_children: true
 ---
 
