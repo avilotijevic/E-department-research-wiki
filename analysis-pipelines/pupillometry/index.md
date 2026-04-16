@@ -9,7 +9,7 @@ nav_order: 1
 
 This page provides a full pipeline for preprocessing and analyzing pupil size data, based on:
 
-Mathôt & Vilotijević (2023)
+Mathôt, S., Vilotijević, A. Methods in cognitive pupillometry: Design, preprocessing, and statistical analysis. Behav Res 55, 3055–3077 (2023). https://doi-org.proxy-ub.rug.nl/10.3758/s13428-022-01957-7
 
 ---
 
