@@ -9,7 +9,7 @@ nav_exclude: true
 
 This notebook contains code to reproduce all figures from:
 
-- Mathôt, S., & Vilotijević, A. (in prep.) Methods in Cognitive Pupillometry: Design, Preprocessing, and Statistical Analysis
+- Mathôt, S., Vilotijević, A. Methods in cognitive pupillometry: Design, preprocessing, and statistical analysis. Behav Res 55, 3055–3077 (2023). https://doi-org.proxy-ub.rug.nl/10.3758/s13428-022-01957-7
 
 -----------------------
 
