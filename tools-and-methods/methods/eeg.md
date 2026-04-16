@@ -1,6 +1,6 @@
 ---
 layout: default
-title: EEG
+title: Electroencephalography (EEG)
 parent: Methods
 nav_order: 2
 ---
