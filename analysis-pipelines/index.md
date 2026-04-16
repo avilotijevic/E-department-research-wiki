@@ -27,7 +27,7 @@ The goal is to offer **reproducible, standardized pipelines** for common data ty
 Use the sidebar to navigate to specific analysis pipelines, such as:
 
 - EEG analysis  
-- Eye tracking analysis  
+- Eye tracking analysis + pupillometry analysis 
 - Neurostimulation analysis  
 
 ---
