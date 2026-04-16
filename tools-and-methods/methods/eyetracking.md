@@ -1,5 +1,8 @@
 ---
-nav_exclude: true
+layout: default
+title: Eye-tracking
+parent: Methods
+nav_order: 1
 ---
 
 # Eye tracking
