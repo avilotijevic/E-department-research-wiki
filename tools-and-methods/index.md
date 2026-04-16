@@ -1,4 +1,3 @@
-
 ---
 layout: default
 title: Tools & methods
