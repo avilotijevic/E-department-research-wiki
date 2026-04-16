@@ -1,3 +1,9 @@
+---
+layout: default
+title: (hidden)
+nav_exclude: true
+---
+
 # Methods in Cognitive Pupillometry: Design, Preprocessing, and Statistical Analysis
 
 
