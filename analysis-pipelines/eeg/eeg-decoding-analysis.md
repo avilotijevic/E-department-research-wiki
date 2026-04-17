@@ -3,6 +3,7 @@ Vilotjević & Mathôt(in prep.) Decoding attentional breadth and selection from 
 
 ## Imports
 
+the [helper_eeg](eeg/helper_eeg.py) defines used functions
 
 ```
 from helper_eeg import *
