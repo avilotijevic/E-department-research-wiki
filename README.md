@@ -24,22 +24,22 @@ It contains step-by-step guides for:
 
 ---
 
-                                  🧾 Step 1 — ETHICS APPLICATION
+                                  Step 1 — ETHICS APPLICATION
                            Apply for ethical approval before running a study.
                                               ↓
-                                  💻 Step 2 — PROGRAM THE EXPERIMENT
+                                  Step 2 — PROGRAM THE EXPERIMENT
                             Build the experiment using OpenSesame.
                                               ↓
-                                  🧠 Step 3 — SELECT METHODOLOGY 
+                                  Step 3 — SELECT METHODOLOGY 
                             Choose the laboratory method required for your study.
                                               ↓
-                                  👥 Step 4 — RECRUIT PARTICIPANTS
+                                Step 4 — RECRUIT PARTICIPANTS
                               Advertise your study using SONA or the Paid Participant Pool (PPP).
                                               ↓
-                                   🧪 Step 5 — BOOK THE LAB
+                                   Step 5 — BOOK THE LAB
                               Reserve the appropriate lab for your experiment.
                                                ↓
-                                    📊 Step 6 — DATA COLLECTION
+                                  Step 6 — DATA COLLECTION
                               Collect experimental data in the lab.
 
 Each of these steps is documented in detail in the sections of this wiki.
