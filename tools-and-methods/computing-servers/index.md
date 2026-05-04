@@ -21,6 +21,10 @@ Our servers are designed to handle computationally intensive tasks such as EEG a
 **[Fox](../computing-servers/fox.md)** is the primary server used for data analysis. It provides high-performance computing resources, including GPU support for machine learning workflows.
 
 
+### Hábrók
+**[Hábrók](../computing-servers/habrok.md)** is the University of Groningen’s high-performance computing (HPC) cluster—a very powerful collection of interconnected computers used for demanding research tasks.
+
+
 ## When should you use a server?
 
 You should use a computing server when:
