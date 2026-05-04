@@ -13,7 +13,8 @@ Hábrók is the University of Groningen’s high-performance computing (HPC) clu
 ## Specifications
 
     84 computers with 128 cores and 512 GB memory. These systems are specially tailored for data-intensive tasks;
-    48 computers with 128 cores, 512 GB memory and a super fast, low latency interconnect. These systems are suitable for large-scale processing of multiple computers;
+    48 computers with 128 cores, 512 GB memory and a super fast, low latency interconnect. These systems are suitable for large-scale 
+    processing of multiple computers;
     4 nodes with 80 cores and 4 TB of memory for memory-intensive tasks;
     3 nodes with 128 cores, 1.5 TB of memory and each 8 Nvidia RTX Pro 6000 GPU's, amongst other things suitable for the most new AI-workloads;
     6 nodes with 64 cores, 512 GB memory and 4 Nvidia A100 cards with 40 GB memory each. These can, for example, accelerate machine learning;
