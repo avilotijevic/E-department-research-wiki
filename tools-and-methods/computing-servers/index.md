@@ -18,7 +18,7 @@ Our servers are designed to handle computationally intensive tasks such as EEG a
 
 ### Fox
 
-**[Fox](../computing-servers/fox.md)** is the primary server used for data analysis. It provides high-performance computing resources, including GPU support for machine learning workflows.
+**[Fox](../computing-servers/fox.md)** is the Experimental Psychology department's primary server used for data analysis. It provides high-performance computing resources, including GPU support for machine learning workflows.
 
 
 ### Hábrók
