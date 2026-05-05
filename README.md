@@ -51,4 +51,4 @@ Each of these steps is documented in detail in the sections of this wiki.
 This wiki is continuously updated to provide **clear and practical instructions for researchers in the department**.
 
 If you notice outdated information or missing documentation, please update the relevant page or contact the maintainers.
-If you want to contribute, please see [instructions](E-department-research-wiki/instructions.md)
+If you want to contribute, please see the [Instructions page](instructions.md).
