@@ -52,7 +52,7 @@ example:
 ### Step 1: Upload the image
 
 1. Go to the repository on GitHub.
-2. Navigate to the folder: `assets/images/`
+2. Navigate to the folder: `assets`
 3. Click **Add file → Upload files**.
 4. Upload your image (e.g., `example.png`).
 5. Commit the changes.
@@ -62,7 +62,7 @@ example:
 Use the following Markdown syntax:
 
 ```md
-![Description](../../assets/images/example.png)
+![Description](../../assets/example.png)
 
-![EEG setup](../../assets/images/eeg-setup.png)
+![EEG setup](../../assets/eeg-setup.png)
 ```
