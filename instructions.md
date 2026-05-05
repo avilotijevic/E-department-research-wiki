@@ -46,7 +46,7 @@ nav_order: insert-order-number
 You can create links between pages using **relative paths**.
 
 example:
-[Go to EEG page](../parent-folder/page-that-takes-you-to-eeg . md)
+[Go to EEG page]( ../parent-folder/page-that-takes-you-to-eeg . md )
 
 ---
 
