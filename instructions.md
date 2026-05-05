@@ -23,7 +23,7 @@ You can contribute by editing existing pages or adding new ones directly through
 2. Click **Add file → Create new file**.
 3. Name your file using lowercase and hyphens:
 
-example-page.md
+`example-page.md`
 
 4. Add content using Markdown.
 5. Commit your changes.
