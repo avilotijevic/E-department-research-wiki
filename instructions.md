@@ -1,7 +1,7 @@
 
 # Contributing to the Wiki
 
-This wiki is built using **Markdown files hosted on GitHub**.  
+This wiki is built using **Markdown files hosted on GitHub**. 
 You can contribute by editing existing pages or adding new ones directly through the GitHub interface.
 
 ---
@@ -12,8 +12,8 @@ You can contribute by editing existing pages or adding new ones directly through
 2. Click on the file (e.g., `.md` file).
 3. Click the **Edit** button (top right).
 4. Make your changes using Markdown.
-5. Scroll down and add a short **commit message** describing your changes.
-6. Click **Commit changes**.
+5. Click **Commit changes**
+6. Add a short **commit message** describing your changes.
 
 ---
 
