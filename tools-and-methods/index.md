@@ -20,4 +20,4 @@ This section describes the tools and methods that you can use in your research.
 
 - Computing servers
   - [Fox](computing-servers/fox.md)
-  - [Hábrók](../computing-servers/habrok.md)
+  - [Hábrók](computing-servers/habrok.md)
