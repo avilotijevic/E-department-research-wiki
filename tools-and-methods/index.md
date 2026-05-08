@@ -15,7 +15,8 @@ This section describes the tools and methods that you can use in your research.
 
 - Methods
   - [Electroencephalography](methods/eeg.md)
-  - [Eye-tracking](methods/eye-tracking.md) 
+  - [Eye-tracking](methods/eyetracking.md)
+  - [Electroretinography](methods/erg.md)  
   - [Stimulation techniques](methods/neurostimulation.md)
 
 - Computing servers
